@@ -152,4 +152,4 @@ class LocalizedStrings{
   }
   */
 }
-module.exports = LocalizedStrings;
+export default LocalizedStrings;
